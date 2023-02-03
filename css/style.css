@@ -1,0 +1,116 @@
+body{
+	margin: 0;
+	font-family: 'Poppins', sans-serif;
+}
+.about {
+	width: 1200px;
+	margin: 100px auto;
+	padding: 60px 50px;
+	border-radius: 30px;
+	box-shadow: 0px 0px 60px #00000059;
+	text-align: center;
+}
+h1 {
+	margin: 0;
+	font-size: 70px;
+	text-transform: uppercase;
+	letter-spacing: 7px;
+	font-weight: 800;
+	color: #ff6a00;
+}
+P{
+	font-size: 20px;
+	color: #1c1c1c;
+	font-weight: 300;
+}
+iframe {
+    margin: 0 auto;
+    display: block;
+    border-radius: 20px;
+/*    box-shadow: 0px 0px 60px #00000059;*/
+    box-shadow: 10px 10px 50px gray;
+}
+.green{
+	color: green;
+}
+.red{
+	color: red;
+}
+mark{
+    background-color: #ff6a00;
+    color: white;
+    padding: 3px 15px;
+    border-radius: 17px;
+    display: inline-block;
+
+}
+.history{
+	background-color: blue;
+	color: #ff6a00;
+	text-align: center;
+	padding: 175px 0;
+	background-image: url(../images/historybg.jpg);
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+h2{
+	margin: 0;
+	font-size: 90px;
+}
+.shopify{
+	width: 1200px;
+	margin: 100px auto;
+	background-color: blue;
+	color: #ff6a00;
+	text-align: center;
+	padding: 175px 0;
+	background-image: url(../images/shopify.jpg);
+	background-position: center;
+/*	background-attachment: fixed;*/
+	background-size: cover;
+}
+.shopify_theme{
+/*	width: 1200px;*/
+	margin: 100px auto;
+	background-color: blue;
+	color: #ff6a00;
+	text-align: center;
+	padding: 175px 0;
+	background-image: url(https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80);
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.shopify_plugin{
+	width: 1200px;
+	margin: 100px auto;
+	background-color: blue;
+	color: #ff6a00;
+	text-align: center;
+	padding: 175px 0;
+	background-image: url(https://images.unsplash.com/photo-1516149893016-813d9a01d5d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+	background-position: center;
+/*	background-attachment: fixed;*/
+	background-size: cover;
+	border-radius: 25px;
+	box-shadow: 5px 5px 50px #ff6a00;
+}
+.shopify_plugin p{
+	color: white;
+	padding: 0 200px;
+}
+.shopify_dev{
+	width: 1200px;
+	margin: 100px auto;
+	background-color: blue;
+	color: white;
+	text-align: center;
+	padding: 175px 0;
+	background-image: url(https://images.unsplash.com/photo-1511311219972-4df5faba0fd5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	border-radius: 25px;
+	box-shadow: 5px 5px 50px seagreen;
+}
